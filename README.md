@@ -1,7 +1,7 @@
 <div align="center">
 🤖 Face Detection: Understanding Emotions Through AI 🤖
 </div>
-<h3 align="center">Welcome to Face Detection, an innovative project for recognizing emotions!</h3> <div align="center"> <img src="https://i.ibb.co/xyz/Face-Detection.jpg" alt="Face Detection" style="height: 100px;" /> </div>
+<h3 align="center">Welcome to Face Detection, an innovative project for recognizing emotions!</h3> <div align="center"> <img src="https://i.ibb.co/THVc1Ht/logo-face.png" alt="Face Detection Logo" style="height: 100px;" /> </div>
 👩‍💻 About the Project
 Face Detection is a cutting-edge application that utilizes AI to identify and categorize emotions based on facial expressions. This project uses advanced face detection algorithms to analyze emotions such as neutral, happy, angry, and more. Our goal is to provide an accurate and intuitive tool for emotion recognition in real-time.
 
